@@ -112,10 +112,10 @@
         <mxCell id="aodUEgmyPxaxZVad0lUR-30" value="Go Back" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="40" y="700" width="150" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="aodUEgmyPxaxZVad0lUR-32" value="Surprise" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="aodUEgmyPxaxZVad0lUR-32" value="Surprise Me" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="895" y="660" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="aodUEgmyPxaxZVad0lUR-33" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="aodUEgmyPxaxZVad0lUR-33" value="Movie info" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="895" y="740" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
